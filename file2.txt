@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 This ia my second file
 This is the second line in file 2
-Making a new change in branch main 
-=======
-This ia my second file
->>>>>>> 44b6161 (Commit-1)
+This is my second line in commit 2
